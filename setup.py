@@ -17,5 +17,5 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    url="https://github.com/yourusername/python_logger"
+    url="https://github.com/VADDIJASWANT/python_logger"
 )
